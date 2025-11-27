@@ -78,5 +78,4 @@ Includes **clear explanations + practical examples** for quick learning.
 ```bash
 ps aux | grep python
 
-=====
 
