@@ -74,6 +74,14 @@ Includes **clear explanations + practical examples** for quick learning.
 | `free -m` | RAM usage |
 | `ps aux` | List running processes |
 
+
+
+
+
+
+
+
+
 **Example:**
 ```bash
 ps aux | grep python
